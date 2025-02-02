@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="b1">
+        <title>Introduction to XML</title>
+        <author>John Doe</author>
+        <price currency="USD">29.99</price>
+    </book>
+    
+    <book id="b2">
+        <title>Advanced XML Techniques</title>
+        <author>Jane Smith</author>
+        <price currency="EUR">39.99</price>
+    </book>
+</bookstore>
