@@ -19,3 +19,28 @@ is used in web development for various purposes, including:
 - **XHTML:** An XML-based version of HTML that ensures stricter document structure and validation.
 
 While JSON has largely replaced XML for data exchange in modern web applications due to its simplicity and efficiency, XML is still widely used in legacy systems and specific applications.
+
+
+1. XML Declaration (<?xml version="1.0" encoding="UTF-8"?>)
+
+This specifies the XML version (1.0) and character encoding (UTF-8).
+
+2. Root Element (<bookstore>)
+
+The outermost element that contains all book records.
+
+3. Child Elements (<book>)
+
+Each <book> represents a book entry inside the bookstore.
+
+4. Attributes (id="b1")
+
+The id attribute uniquely identifies each book.
+
+5. Nested Elements
+
+<title>, <author>, and <price> define book details.
+
+  6. Attribute in Element (<price currency="USD">29.99</price>)
+
+The currency attribute specifies the currency type for the book price.
