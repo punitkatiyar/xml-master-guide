@@ -1,6 +1,8 @@
 # xml-master-guide
 
-# XML (Extensible Markup Language) is used in web development for various purposes, including:
+# XML (Extensible Markup Language) 
+
+is used in web development for various purposes, including:
 
 - **Data Storage and Transfer:** XML is commonly used to store and transport data between systems, especially in web services and APIs.
 
