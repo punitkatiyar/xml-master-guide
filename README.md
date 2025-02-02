@@ -21,6 +21,8 @@ is used in web development for various purposes, including:
 While JSON has largely replaced XML for data exchange in modern web applications due to its simplicity and efficiency, XML is still widely used in legacy systems and specific applications.
 
 
+## Explanation of tech.xml
+
 1. XML Declaration (< ?xml version="1.0" encoding="UTF-8"? >)
 
 This specifies the XML version (1.0) and character encoding (UTF-8).
