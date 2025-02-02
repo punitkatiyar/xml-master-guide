@@ -1,4 +1,3 @@
-<title>XML Master Guide</title>
 # XML (Extensible Markup Language) 
 
 is used in web development for various purposes, including:
